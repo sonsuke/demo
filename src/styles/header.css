@@ -1,0 +1,31 @@
+.header__wrapper {
+  padding: 30px 20px;
+  background-color: lightseagreen;
+  color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__title {
+  font-size: 2rem;
+}
+.header__button {
+  background-color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  color: lightseagreen;
+}
+.header__logout {
+  background-color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  color: red;
+  margin-left: 20px;
+}
